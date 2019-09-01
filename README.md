@@ -49,7 +49,7 @@ a value of the abbreviation.
 
 ## Todo
 
-- [] figure out if there is some sort of unit test that makes sense for
+- [ ] figure out if there is some sort of unit test that makes sense for
     this package
 
 ## Credits
