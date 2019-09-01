@@ -47,6 +47,11 @@ and a value of the state name.
 `USStates::abbreviationsKeyedByNames()` returns a key of state name and
 a value of the abbreviation.
 
+## Todo
+
+- [] figure out if there is some sort of unit test that makes sense for
+    this package
+
 ## Credits
 
 This package is created and maintained by [Aaron Saray](https://github.com/aaronsaray) 
