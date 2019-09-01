@@ -1,0 +1,19 @@
+{
+  "name": "aaronsaray/us-states",
+  "description": "Tools to work with the US States",
+  "authors": [
+    {
+      "name": "Aaron Saray",
+      "email": "aaron@aaronsaray.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "AaronSaray\\USStates\\": "src/"
+    }
+  }
+}
